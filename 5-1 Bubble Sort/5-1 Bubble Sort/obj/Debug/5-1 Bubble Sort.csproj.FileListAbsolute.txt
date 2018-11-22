@@ -1,0 +1,7 @@
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-1 Bubble Sort\5-1 Bubble Sort\bin\Debug\5-1 Bubble Sort.exe.config
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-1 Bubble Sort\5-1 Bubble Sort\bin\Debug\5-1 Bubble Sort.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-1 Bubble Sort\5-1 Bubble Sort\bin\Debug\5-1 Bubble Sort.pdb
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-1 Bubble Sort\5-1 Bubble Sort\obj\Debug\5-1 Bubble Sort.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-1 Bubble Sort\5-1 Bubble Sort\obj\Debug\5-1 Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-1 Bubble Sort\5-1 Bubble Sort\obj\Debug\5-1 Bubble Sort.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-1 Bubble Sort\5-1 Bubble Sort\obj\Debug\5-1 Bubble Sort.pdb
