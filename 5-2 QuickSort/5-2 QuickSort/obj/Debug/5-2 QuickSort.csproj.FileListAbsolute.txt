@@ -1,0 +1,7 @@
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-2 QuickSort\5-2 QuickSort\bin\Debug\5-2 QuickSort.exe.config
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-2 QuickSort\5-2 QuickSort\bin\Debug\5-2 QuickSort.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-2 QuickSort\5-2 QuickSort\bin\Debug\5-2 QuickSort.pdb
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-2 QuickSort\5-2 QuickSort\obj\Debug\5-2 QuickSort.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-2 QuickSort\5-2 QuickSort\obj\Debug\5-2 QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-2 QuickSort\5-2 QuickSort\obj\Debug\5-2 QuickSort.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-2 QuickSort\5-2 QuickSort\obj\Debug\5-2 QuickSort.pdb
