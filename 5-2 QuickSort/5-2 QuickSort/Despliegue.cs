@@ -26,40 +26,38 @@ namespace _5_2_QuickSort
                         "\n4.-   8, 19, 7, 3, 15, 23, 34, 27, 89, 101" +
                         "\n\nTeclee el numero de la opcion que desee saber el ordenamiento: ");
                     int opc = Convert.ToInt32(Console.ReadLine());
-                    switch (opc)                                                                     // Es el menu para el despliegue del ordenamiento que desee el usuario
+                    if (opc == 1)
                     {
-                        case 1:
-                            Proceso ordenara = new Proceso();                                        // Se instancia la clase
-                            ordenara.QuickSort(a);                                                   // Y se mandan a llamar los metodos para realizar el ordenamiento
-                            ordenara.Ordenado(a, a.Length);                                          // e impresion de los valores
-                            break;
-
-                        case 2:
-                            Proceso ordenarb = new Proceso();
-                            ordenarb.QuickSort(b);
-                            ordenarb.Ordenado(b, b.Length);
-                            break;
-
-                        case 3:
-                            Proceso ordenarc = new Proceso();
-                            ordenarc.QuickSort(c);
-                            ordenarc.Ordenado(c, c.Length);
-                            break;
-
-                        case 4:
-                            Proceso ordenard = new Proceso();
-                            ordenard.QuickSort(d);
-                            ordenard.Ordenado(d, d.Length);
-                            break;
-                        case 5:
-                            salir = false;
-                            Console.WriteLine("\nGracias por utilizar mi bello y precioso programa \nHasta a proxima!!");
-                            Console.ReadKey();
-                            break;
-
-                        default:
-                            Console.Write("\nLa opcion que introdujo es invalida \nPor favor introdusca una opcion que este dentro de nuetro menu"); Console.ReadKey(); Console.Clear(); break;
+                        Proceso ordenara = new Proceso();                                        // Se instancia la clase
+                        ordenara.QuickSort(a);                                                   // Y se mandan a llamar los metodos para realizar el ordenamiento
+                        ordenara.Ordenado(a, a.Length);                                          // e impresion de los valores
                     }
+                    else if (opc == 2)
+                    {
+                        Proceso ordenarb = new Proceso();
+                        ordenarb.QuickSort(b);
+                        ordenarb.Ordenado(b, b.Length);
+                    }
+                    else if (opc == 3)
+                    {
+                        Proceso ordenarc = new Proceso();
+                        ordenarc.QuickSort(c);
+                        ordenarc.Ordenado(c, c.Length);
+                    }
+                    else if (opc == 4)
+                    {
+                        Proceso ordenard = new Proceso();
+                        ordenard.QuickSort(d);
+                        ordenard.Ordenado(d, d.Length);
+                    }
+                    else if (opc == 5)
+                    {
+                        salir = false;
+                        Console.WriteLine("\nGracias por utilizar mi bello y precioso programa \nHasta a proxima!!");
+                        Console.ReadKey();
+                    }
+                    else
+                    { Console.Write("\nLa opcion que introdujo es invalida \nPor favor introdusca una opcion que este dentro de nuetro menu"); Console.ReadKey(); Console.Clear(); }
                 }
                 catch (Exception e)
                 {
