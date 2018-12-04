@@ -1,0 +1,7 @@
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-3 Radix\5-3 Radix\bin\Debug\5-3 Radix.exe.config
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-3 Radix\5-3 Radix\bin\Debug\5-3 Radix.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-3 Radix\5-3 Radix\bin\Debug\5-3 Radix.pdb
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-3 Radix\5-3 Radix\obj\Debug\5-3 Radix.csprojAssemblyReference.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-3 Radix\5-3 Radix\obj\Debug\5-3 Radix.csproj.CoreCompileInputs.cache
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-3 Radix\5-3 Radix\obj\Debug\5-3 Radix.exe
+C:\Users\Your fucking mom\Documents\GitHub\Unidad5\5-3 Radix\5-3 Radix\obj\Debug\5-3 Radix.pdb
